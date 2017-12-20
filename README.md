@@ -16,7 +16,17 @@ There are two .ipynb files, "name" and "name2". The first one is como contenido 
 
 #### Source files
 
+Monod.jl
 
+MoParams.jl
+
+PKPD.jl
+
+PlottingFunctions.jl
+
+SystemODE.jl
+
+TreatmentSimulator.jl
 
 
 

@@ -4,7 +4,21 @@ The general aim of this project is to design optimal individual (that is, person
 
 ## Getting Started
 
-The code was build in Julia version 0.5.1 and requires Gadfly, ODE, Distributions, DataFrames, JLD packages to be installed. There are 
+### Prerequisites
+
+The whole code was build in Julia version 0.5.1 and requires Gadfly, ODE, Distributions, DataFrames and JLD packages to be installed. 
+
+### Files Description
+
+There are two .ipynb files, "name" and "name2". The first one is como contenido en si mismo, while the second calls individual modules (i.e. .jl source files).
+
+"name" file offers visualization of figures on the notebook itself, hence can be used when running few experiments. Whereas "name2" should be used when running many experiments at once, figures are stored at different folders according to running time.
+
+#### Source files
+
+
+
+
 
 ```
 Some code

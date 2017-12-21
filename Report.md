@@ -9,5 +9,5 @@ Let
 
 ![equation](http://latex.codecogs.com/svg.latex?%5Cfrac%7B%5Cmathrm%7Bd%7D%20%5Cbeta%20_i%7D%7B%5Cmathrm%7Bd%7D%20t%7D%20%3D%20r_i%20E_r%28D%29%20%5Cfrac%7B%5Cmu_%7Bmax%7D%20S%7D%7BK_s&plus;S%7D%20%5Cbeta%20_i%20-%20%5Cbig%28E_k%28D%29%20&plus;%20%5Cdelta%5Cbig%29%20%5Cbeta_i)
 
-be the equation describing the change of bacteria biomass in a chemostat, where [](http://latex.codecogs.com/svg.latex?%20r_i)
+be the equation describing the change of bacteria biomass in a chemostat, where ![equation](http://latex.codecogs.com/svg.latex?r_i)
 

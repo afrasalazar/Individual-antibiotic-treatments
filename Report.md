@@ -5,5 +5,7 @@ The general aim of this project is to design optimal individual (that is, person
 ## The mathematical model 
 
 
-Let $y = 5 \sigma$
+Let 
+
+![equation](http://latex.codecogs.com/gif.latex
 

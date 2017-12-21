@@ -29,6 +29,8 @@ SystemODE.jl Contains the equations system definition of the model.
 TreatmentSimulator.jl The core of the computational model, contains the function that simulates the treatments. 
 
 
+![Pathogen](https://github.com/afrasalazar/Individual-antibiotic-treatments/blob/master/P-0.01_C-0.35_D-0.0_δ-0.7998400319936012_μp-0.8_μc-0.8a.png)
+
 
 ```
 Some code

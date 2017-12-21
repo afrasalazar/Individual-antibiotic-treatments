@@ -18,15 +18,15 @@ There are two Jupyter notebook (.ipynb) files, "name" and "name2". The first one
 
 Monod.jl Contains bacteria uptake funcion as a Monod function. 
 
-MoParams.jl Contains all the parameters of the model and creates a dictionary of all of them.
+Parameters.jl Contains all the parameters of the model and creates a dictionary of all of them.
 
-PKPD.jl Includes the killing and the growth inhibition functions ($E_max models$)
+PKPD.jl Includes the killing and the growth inhibition functions.
 
-PlottingFunctions.jl
+PlottingFunctions.jl Contains plotting function.
 
-SystemODE.jl
+SystemODE.jl Contains the equations system definition of the model.
 
-TreatmentSimulator.jl
+TreatmentSimulator.jl The core of the computational model, contains the function that simulates the treatments. 
 
 
 
